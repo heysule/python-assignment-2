@@ -39,4 +39,4 @@ def prepFinancialStatement(investment = 50000, marketing_percent = 0.25, operati
   }
 
   for key, value in financialStatement.items():
-    print(f"{key} : {value}")
+    print(f"{key}: {value}")
